@@ -29,6 +29,7 @@ class Imagem {
         } else
             cerr << "Erro inesperado";
     }
+
     void limpar() {
         if (x != NULL) {
             for (unsigned i = 0; i < NL; i++) delete[] x[i];
