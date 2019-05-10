@@ -1,6 +1,5 @@
 # Classe Imagem
 
-
 class Imagem:
 
     def __init__(self, NL, NC, color):
@@ -48,3 +47,5 @@ class Imagem:
         file.close()
         print("Arquivo " + str(nome) + " salvo!")
         pass
+
+# This is us
