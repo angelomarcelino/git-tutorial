@@ -1,7 +1,5 @@
 # Classe Imagem
 
-# Coisa
-
 
 class Imagem:
 
