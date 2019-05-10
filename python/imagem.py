@@ -48,4 +48,3 @@ class Imagem:
         print("Arquivo " + str(nome) + " salvo!")
         pass
 
-# This is us
