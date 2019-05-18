@@ -10,7 +10,7 @@ Em nosso Master, temos 3 arquivos: _/cpp_, _/python_ e _.gitignore_. Esses arqui
 Além deles, temos listas de comandos feitos através do [Google Colab](https://colab.research.google.com/), que podem ser executados através do próprio browser.
 
 ----------editando o muido todo ----------
-
+----------aprendendo branch----------------
 
 ## Comandos Básicos de Git para repositórios locais
 No arquivo [git_tutorial_local.ipynb](https://github.com/angelomarcelino/git-tutorial/blob/master/git_tutorial_local.ipynb), temos listados todos os comandos utilizados durante o seu primeiro contato com a ferramenta Git.
