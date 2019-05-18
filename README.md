@@ -2,6 +2,10 @@
 Neste tutorial aprenderemos como utilizar as ferramentas Git e GitHub.
 Este tutorial foi oferecido presencialmente através do processo seletivo do projeto [NatalNet](https://github.com/Natalnet).
 
+-------Coisa adicionada aqui----------
+
+aosasgdijsadfhoidfjgokf
+
 Os slides de apresentação podem ser vistos através deste [link](https://docs.google.com/presentation/d/1IH-N9yISdsewonJFyCP2ZzpO4xwAASVkQ_HSoTU0hW8/edit?usp=sharing).
 
 ## Descrição de arquivos
