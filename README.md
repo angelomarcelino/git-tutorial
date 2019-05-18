@@ -14,6 +14,8 @@ No arquivo [git_tutorial_local.ipynb](https://github.com/angelomarcelino/git-tut
 
 É importante frisar que para reproduzir os efeitos do comando em seu computador, execute os comandos **sem a exclamação "!"**. Além disso, alguns comandos foram adaptados para servirem o mesmo propósito no ambiente do Colab. 
 
+									=-=-=-=-=-=-=-=-=-= Changes =-=-=-=-=-=-=-=-=-=
+
 ## Comandos de Git Branching
 No arquivo [git_tutorial_branching.ipynb](https://github.com/angelomarcelino/git-tutorial/blob/master/git_tutorial_branching.ipynb), temos listados todos os comandos utilizados durante o seu primeiro contato com os concecitos de Git Branching.
 
