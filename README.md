@@ -4,6 +4,9 @@ Este tutorial foi oferecido presencialmente através do processo seletivo do pro
 
 Os slides de apresentação podem ser vistos através deste [link](https://docs.google.com/presentation/d/1IH-N9yISdsewonJFyCP2ZzpO4xwAASVkQ_HSoTU0hW8/edit?usp=sharing).
 
+
+Elder
+
 ## Descrição de arquivos
 Em nosso Master, temos 3 arquivos: _/cpp_, _/python_ e _.gitignore_. Esses arquivos simulam um repositório com um projeto associado. No caso, os arquivos presentes nestas pastas descrevem um simples programa que gera uma imagem em _.pgm_ com retângulos desenhados.
 
