@@ -18,7 +18,7 @@ Obs.: É importante frisar que para reproduzir os efeitos dos comandos em seu co
 
 ## Descrição de arquivos
 
-Em nosso _master_, temos 3 arquivos: _/cpp_, _/python_ e _.gitignore_. Esses arquivos simulam um repositório com um projeto associado. No caso, os arquivos presentes nestas pastas descrevem um simples programa que gera uma imagem em _.pgm_ com retângulos desenhados.
+Em nosso [_master_](https://github.com/angelomarcelino/git-tutorial/tree/master), temos 3 arquivos: [_/cpp_](https://github.com/angelomarcelino/git-tutorial/tree/master/cpp), [_/python_](https://github.com/angelomarcelino/git-tutorial/tree/master/python) e [_.gitignore_](https://github.com/angelomarcelino/git-tutorial/blob/master/.gitignore). Esses arquivos simulam um repositório com um projeto associado. No caso, os arquivos presentes nestas pastas descrevem um simples programa que gera uma imagem em _.pgm_ com retângulos desenhados.
 
 Além deles, temos listas de comandos feitos através do [Google Colab](https://colab.research.google.com/), que podem ser executados através do próprio browser.
 
