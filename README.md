@@ -22,4 +22,4 @@ Em nosso _master_, temos 3 arquivos: _/cpp_, _/python_ e _.gitignore_. Esses arq
 
 Além deles, temos listas de comandos feitos através do [Google Colab](https://colab.research.google.com/), que podem ser executados através do próprio browser.
 
-Após a realização da Oficina, foram criadas novos **branches** para cada participante, para que cada um possa ter seu próprio sandbox para aplicar os conceitos aprendidos na oficina.
+Após a realização da Oficina, foram criadas novos [branches](https://github.com/angelomarcelino/git-tutorial/branches/all) para cada participante, para que cada um possa ter seu próprio sandbox para aplicar os conceitos aprendidos na oficina.
